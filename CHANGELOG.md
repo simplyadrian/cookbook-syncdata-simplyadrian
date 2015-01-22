@@ -5,9 +5,8 @@ This file is used to list changes made in each version of the syncdata-nativex c
 
 0.1.0
 -----
-- [your_name] - Initial release of syncdata-nativex
+- Adrian Herrera - Initial release of syncdata-nativex
 
-- - -
-Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
-
-The [Github Flavored Markdown page](http://github.github.com/github-flavored-markdown/) describes the differences between markdown on github and standard markdown.
+0.1.1
+-----
+- Adrian Herrera - changed RSYNC options to ensure delete order is correct.
